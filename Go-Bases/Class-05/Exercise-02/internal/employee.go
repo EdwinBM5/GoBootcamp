@@ -9,5 +9,5 @@ type Employee struct {
 }
 
 func (e Employee) PrintEmployee() {
-	fmt.Printf("ID: %d, Position: %s, ID Person: %d, Name: %s, Date of birth: %s\n", e.ID, e.Position, e.ID, e.Name, e.DateOfBirth)
+	fmt.Printf("ID: %d, Position: %s, ID Person: %d, Name: %s, Date of birth: %s\n", e.Person.ID, e.Position, e.ID, e.Name, e.DateOfBirth)
 }

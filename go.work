@@ -1,0 +1,9 @@
+go 1.21.7
+
+use (
+	./Go-Bases/Clase-01
+	./Go-Bases/Clase-02
+	./Go-Bases/Clase-03
+	./Go-Bases/Clase-04
+	./Go-Bases/Clase-05
+)

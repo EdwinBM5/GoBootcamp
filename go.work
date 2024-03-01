@@ -5,5 +5,6 @@ use (
 	./Go-Bases/Class-02
 	./Go-Bases/Class-03
 	./Go-Bases/Class-04
-	./Go-Bases/Class-05
+	./Go-Bases/Class-05/Exercise-01
+	./Go-Bases/Class-05/Exercise-02
 )

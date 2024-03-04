@@ -1,7 +1,10 @@
 go 1.21.7
 
 use (
-	./Go-Bases/Class-01
+	./Go-Bases/Class-01/Exercise-01
+	./Go-Bases/Class-01/Exercise-02
+	./Go-Bases/Class-01/Exercise-03
+	./Go-Bases/Class-01/Exercise-04
 	./Go-Bases/Class-02
 	./Go-Bases/Class-03
 	./Go-Bases/Class-04

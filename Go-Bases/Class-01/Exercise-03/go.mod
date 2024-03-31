@@ -1,3 +1,3 @@
-module class/one/var
+module class/bases/one/var
 
 go 1.21.7

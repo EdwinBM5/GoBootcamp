@@ -1,6 +1,6 @@
 package main
 
-import "class/five/product/internal"
+import "class/bases/five/product/internal"
 
 func main() {
 

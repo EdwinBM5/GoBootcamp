@@ -5,6 +5,15 @@ import (
 )
 
 func TestCalculateSalaryTax(t *testing.T) {
+	/*
+		Exercise 1 - Testing the salary tax
+		The chocolate company that previously needed to calculate the tax of their employees at the time of
+		depositing their salary now asked us to validate that the calculations of these taxes are correct. For this they asked us to perform the corresponding tests for:
+
+		Calculate the tax in case the employee earns below $50,000.
+		Calculate the tax in case the employee earns more than $50,000.
+		Calculate the tax in case the employee earns more than $150,000.
+	*/
 	t.Run("Tax on salaries below $50.000", func(t *testing.T) {
 		//arrange
 		salary := 40000.0
